@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning __Python__
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with learning
-- 💬 Ask me about bugs
-- 📫 How to reach me: ...
+- 💬 Ask me about bugs in my code
+- 📫 How to reach me: rodrigogocap09@gmail.com
 - 😄 Pronouns: He/Him
 - Fun fact: I like dogs
 -->
